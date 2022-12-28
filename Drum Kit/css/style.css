@@ -18,6 +18,13 @@ html {
     color: #fff;
     font-size: 30px;
   }
+
+  .desc{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 25px;
+  }
   
   .keys {
     display: flex;
