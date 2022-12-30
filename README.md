@@ -17,3 +17,7 @@
 
 ## _[Palindrome Checker](https://js-palindrome-checker.netlify.app/)_ 🔗
 ![palindrome](https://user-images.githubusercontent.com/91872149/210039264-14a47119-c629-46c8-9b20-e988495c2901.png)
+
+## _[Info/Memory Card Game](https://info-memory-card-game.netlify.app/)_ 🔗
+![info-memory card game](https://user-images.githubusercontent.com/91872149/210045024-4d6c088c-561c-45e6-9a61-c2d69b734cc2.png)
+
