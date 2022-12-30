@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>🏦💰 Loan Calculator</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <div class="loan-calculator">
+      <div class="top">
+        <h2>
+          🏦 Loan Calculator (For Home, Car, Bike, Personal)</h2>
+        </h2>
+        <form action="#">
+          <div class="group">
+            <div class="title"><strong>Amount</strong></div>
+            <input type="text" value="30000" class="loan-amount" />
+          </div>
+
+          <div class="group">
+            <div class="title"><strong>Interest Rate</strong></div>
+            <input type="text" value="8.5" class="interest-rate" />
+          </div>
+
+          <div class="group">
+            <div class="title"><strong>Tenure (in months)</strong></div>
+            <input type="text" value="240" class="loan-tenure" />
+          </div>
+        </form>
+      </div>
+
+      <div class="result">
+        <div class="left">
+          <div class="loan-emi">
+            <h3><strong>Loan EMI</strong></h3>
+            <div class="value">123</div>
+          </div>
+
+          <div class="total-interest">
+            <h3><strong>Total Interest Payable</strong></h3>
+            <div class="value">1234</div>
+          </div>
+
+          <div class="total-amount">
+            <h3><strong>Total Amount</strong></h3>
+            <div class="value">12345</div>
+          </div>
+
+          <button class="calculate-btn">Calculate</button>
+        </div>
+
+        <div class="right">
+          <canvas id="myChart" width="1200" height="400"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.6.2/dist/chart.min.js"></script>
+
+    <script src="./js/script.js"></script>
+  </body>
+</html>
