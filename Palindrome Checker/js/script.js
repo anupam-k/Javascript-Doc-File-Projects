@@ -7,7 +7,7 @@ checkBtn.addEventListener("click", () => {
   let reverseInput = filterInput.split("").reverse().join("");
   infoTxt.style.display = "block";
   if (filterInput != reverseInput) {
-    return (infoTxt.innerHTML = `No, <span>'${txtInput.value}'</span> isn't a palindrome!`);
+    return (infoTxt.innerHTML = `No, <span><strong>'${txtInput.value}'</strong></span> isn't a palindrome!`);
   }
   infoTxt.innerHTML = `Yes, <span><strong>'${txtInput.value}'</strong></span> is a palindrome!`;
 });
