@@ -3,7 +3,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/24689925-d1f1-434c-a82e-0780baef19cc/deploy-status)](https://app.netlify.com/sites/js-palindrome-checker/deploys)
 <br>
 
-<img src="https://img.shields.io/badge/Project 1-Word Counter-5D3FD3" /> <img src="https://img.shields.io/badge/Project 2-Drum Kit-5D3FD3" /> <img src="https://img.shields.io/badge/Project 3-Flash Card Information-5D3FD3" /> <img src="https://img.shields.io/badge/Project 4-Palindrome Checker-5D3FD3" /> <img src="https://img.shields.io/badge/Project 5-Info/Memory Game-5D3FD3" />
+<img src="https://img.shields.io/badge/Project 1-Word Counter-5D3FD3" /> <img src="https://img.shields.io/badge/Project 2-Drum Kit-5D3FD3" /> <img src="https://img.shields.io/badge/Project 3-Flash Card Information-5D3FD3" /> <img src="https://img.shields.io/badge/Project 4-Palindrome Checker-5D3FD3" /> <img src="https://img.shields.io/badge/Project 5-Info/Memory Card Game-5D3FD3" /> <img src="https://img.shields.io/badge/Project 6-To Do List-5D3FD3" />
 
 ## _[Word Counter](https://wordcounter-js.netlify.app/)_ 🔗
 ![Word counter](https://user-images.githubusercontent.com/91872149/209664699-adf6cff4-7097-49a5-8aed-039102e81f40.png)
@@ -21,5 +21,4 @@
 ![info-memory card game](https://user-images.githubusercontent.com/91872149/210045024-4d6c088c-561c-45e6-9a61-c2d69b734cc2.png)
 
 ## _[To Do List](https://todo-list-in-js.netlify.app/)_ 🔗
-![todo](https://user-images.githubusercontent.com/91872149/210050332-6da4d490-7a09-4d1b-98a7-79c5bb897b94.png)
-
+![todo](https://user-images.githubusercontent.com/91872149/210050631-6d6b1c92-067a-4735-a481-3fbb9ebc6869.png)
