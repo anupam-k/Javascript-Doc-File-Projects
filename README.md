@@ -5,6 +5,11 @@
 
 <img src="https://img.shields.io/badge/Project 1-Word Counter-5D3FD3" /> <img src="https://img.shields.io/badge/Project 2-Drum Kit-5D3FD3" /> <img src="https://img.shields.io/badge/Project 3-Flash Card Information-5D3FD3" /> <img src="https://img.shields.io/badge/Project 4-Palindrome Checker-5D3FD3" /> <img src="https://img.shields.io/badge/Project 5-Info/Memory Card Game-5D3FD3" /> <img src="https://img.shields.io/badge/Project 6-To Do List-5D3FD3" />
 
+| _Projects_ | _Word Counter_ | _Drum Kit_ | _Flash Card Information_ | _Palindrome Checker_ | _Info/Memory Card Game_ | _To Do List_ | _To Do List_ |
+| :---:   | :---: | :---: |  :---: |  :---: |  :---: |  :---: |  :---: |
+| _<b>Links</b>_ | _<b>[Link](https://wordcounter-js.netlify.app/)</b>_ | _<b>[Link](https://drum-kit-in-js.netlify.app/)</b>_ | _<b>[Link](https://flash-card-information-in-js.netlify.app/)</b>_ | _<b>[Link](https://js-palindrome-checker.netlify.app/)</b>_ | _<b>[Link](https://info-memory-card-game.netlify.app/)</b>_ | _<b>[Link](https://todo-list-in-js.netlify.app/)</b>_ | _<b>[Link](https://wordcounter-js.netlify.app/)</b>_ | _<b>[Link](https://wordcounter-js.netlify.app/)</b>_ |
+
+
 ## _[Word Counter](https://wordcounter-js.netlify.app/)_ 🔗
 ![Word counter](https://user-images.githubusercontent.com/91872149/209664699-adf6cff4-7097-49a5-8aed-039102e81f40.png)
 
